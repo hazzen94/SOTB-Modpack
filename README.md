@@ -11,6 +11,8 @@
 - [AllToasters-SpectateEnemies-1.5.0](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
 
 ## **Changelog**
+> ### v1.0.1
+> Manifest changes
 
 > ### v1.0.0
 >
