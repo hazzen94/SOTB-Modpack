@@ -1,7 +1,7 @@
 {
     "name": "SOTB_Modpack",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/hazzen94/SOTB_Modlist",
     "description": "For the boys",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
